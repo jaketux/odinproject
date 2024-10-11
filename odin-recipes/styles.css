@@ -1,0 +1,26 @@
+body {
+    background: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a, 
+a:visited{
+    color: white;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 400;
+}
+
+h4 {
+    font-size: 24px;
+    font-weight: 200;
+}
+
